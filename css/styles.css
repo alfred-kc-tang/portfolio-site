@@ -1,0 +1,93 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.5;
+	background-color: #0b0c10;
+	color: #66fcf1;
+}
+
+.logo {
+	width: 100%;
+}
+
+.info {
+	text-transform: uppercase;
+	text-align: right;
+}
+
+#name {
+	font-size: calc(2vw + 2vh + 1vmin);
+}
+
+#title {
+	font-size: calc(1vw + 1vh + .5vmin);
+}
+
+.line {
+	width: 100%;
+	border-color: #66FCF1;
+}
+
+.centerImage {
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.projects {
+	top: 100px;
+	text-transform: uppercase;
+	text-align: left;
+	font-size: calc(1vw + 1vh + 1vmin);
+	margin-left: 20px;
+}
+
+.threeImages {
+	max-width: 100%;
+	max-height: 100%;
+	margin: 20px 20px 20px 20px;
+	align-content: center;
+}
+@media only screen and (max-width: 767px) {
+  .threeImages {
+    width: 340px;
+    height: 340px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
+  .threeImages {
+	width: 200px;
+	height: 200px;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .threeImages {
+    width: 300px;
+	height: 300px;
+  }
+}
+
+.projectName {
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: calc(1vw + 1vh + .5vmin);
+	text-align: center;
+}
+@media only screen and (max-width: 767px) {
+  .projectName {
+    width: 340px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
+  .projectName {
+	width: 200px;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .projectName {
+    width: 300px;
+  }
+}
+
+.threeImages-container, .heading {
+	margin-top: 30px;
+	align-content: center;
+}
