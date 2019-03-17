@@ -20,7 +20,7 @@ I was provided with a design mockup and replicated that design in HTML and CSS. 
 
 **OR**
 
-1. Click on this [link](https://github.com/alfred-kctang/Udacity-FEND-Portfolio-Site-Project/) to open the live version of the page.
+1. Click on this [link](https://alfred-kctang.github.io/Udacity-FEND-Portfolio-Site-Project/) to open the live version of the page.
 
 ## Contributing
 
