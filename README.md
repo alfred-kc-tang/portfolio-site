@@ -25,7 +25,7 @@ I was provided with a design mockup and replicated that design in HTML and CSS. 
 
 ## Contributing
 
-This repository is the author's code for a project of Udacity's Front-end Web Developer Nanodegree.
+This repository is the author's code for a project of Udacity's Front-End Web Developer Nanodegree.
 
 ## License
 
