@@ -5,6 +5,7 @@
 * [Introduction](#introduction)
 * [Installation](#installation)
 * [Contributing](#contributing)
+* [License](#license)
 
 ## Introduction
 
@@ -24,4 +25,8 @@ I was provided with a design mockup and replicated that design in HTML and CSS. 
 
 ## Contributing
 
-This repository is the author's code for a project of Udacity Front-end Web Developer Nanodegree.
+This repository is the author's code for a project for Udacity's Front-end Web Developer Nanodegree.
+
+## License
+
+The contents of this repository are covered under the [MIT License](https://choosealicense.com/licenses/mit/).
