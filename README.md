@@ -9,7 +9,7 @@
 
 ## Introduction
 
-I was provided with a design mockup and replicated that design in HTML and CSS. I developed a responsive website using Bootstrap that displays images, descriptions, and links to each of the portfolio projects I completed throughout the course of my Front-end Web Developer Nanodegree program.
+Given a design mockup, I developed this responsive website using Bootstrap that displays images, descriptions, and links to some of the portfolio projects I completed for Udacit's Front-End Web Developer Nanodegree.
 
 ## Installation
 
