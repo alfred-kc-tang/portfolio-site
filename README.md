@@ -21,7 +21,7 @@ Given a design mockup, I developed this responsive website using Bootstrap that 
 
 **OR**
 
-1. Click on this [link](https://alfred-kctang.github.io/Portfolio-Site-Project/) to open the live version of the page.
+1. Click on this [link](https://alfred-kctang.github.io/portfolio-site/) to open the live version of the page.
 
 ## License
 
