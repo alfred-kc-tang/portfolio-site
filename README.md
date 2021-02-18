@@ -1,4 +1,4 @@
-# [Portfolio Site](https://alfred-kctang.github.io/Portfolio-Site-Project/)
+# [Portfolio Site](https://alfred-kctang.github.io/portfolio-site/)
 
 ## Table of Contents
 
